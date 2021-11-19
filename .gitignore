@@ -1,3 +1,7 @@
+# gitbook
+.DS_Store
+node_modules
+_book
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -9,7 +13,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
-develop-eggs/
+develop-eggs/.DS_Store
 dist/
 downloads/
 eggs/
