@@ -7,5 +7,5 @@
     * [fun](command-func.md)
     * [shellcommand](shell command.md)
     * [shellprogram](shellprogram.md)
-    * [ssh](ssh 配置文件详解)
+    * [ssh](ssh 配置文件详解.md)
 
